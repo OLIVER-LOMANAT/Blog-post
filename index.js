@@ -92,10 +92,7 @@ function showEditForm(id) {
                         <label>Content:</label>
                         <textarea name="content" required>${blog.content}</textarea>
                     </div>
-                    <div>
-                        <button type="submit">Save Changes</button>
-                        <button type="button" onclick="showBlogDetail(${id})">Cancel</button>
-                    </div>
+               
                 </form>
             `;
         });
