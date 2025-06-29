@@ -25,5 +25,5 @@ This is a simple web application that lets you create, view, edit, and delete bl
 
 ## Useful Links
 
-- [Live Demo](YOUR_LIVE_LINK_HERE)
+- https://oliver-lomanat.github.io/Blog-post/
 - [Source Code](YOUR_GITHUB_LINK_HERE)

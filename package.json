@@ -1,0 +1,9 @@
+{
+  "name": "blog-api",
+  "scripts": {
+    "start": "json-server db.json --port $PORT --static ./ --watch"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
