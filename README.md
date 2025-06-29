@@ -1,86 +1,29 @@
-Blog Post Manager - README
+# Blog Post Manager
 
-#Project Description
+This is a simple web application that lets you create, view, edit, and delete blog posts. It is built using HTML, CSS, and JavaScript, making it easy to manage blog content in a clean interface.
 
-#A simple blog post management application that allows users to:
+## Features
 
-View a list of blog posts
-See detailed post content
-Add new blog posts
-Edit existing posts
-Delete posts
+- Displays a list of blog titles
+- Click on a title to see full blog details including author, image, and content
+- Add new blogs using a form with title, author, image URL, and content
+- Edit or delete existing blogs directly from the detail view
+- Shows the total number of blogs available
 
-#Features
+## How to Run
 
-Clean, responsive interface
-Full CRUD functionality (Create, Read, Update, Delete)
-Real-time post counter
-Form validation for required fields
+1. You need a backend API running at `http://localhost:3000/Blogs`. You can easily set this up using [json-server](https://github.com/typicode/json-server) with your JSON data.
+2. Open `index.html` in your web browser.
+3. Use the form to add blogs, and click on blog titles to view or manage them.
 
-#Technologies Used
-HTML5
-CSS3
-JavaScript (ES6)
-JSON Server (for mock backend API)
+## Project Structure
 
-#Installation
+- `index.html` – The main HTML page
+- `index.css` – Stylesheet for layout and design
+- `index.js` – JavaScript handling fetching, rendering, and user interactions
+- `db.json` – (Optional) JSON file containing initial blog data for the API
 
--git clone [repository-url]
+## Useful Links
 
--npm install -g json-server
-
--json-server --watch db.json
-
-#Project Structure
-
-blog-manager/
-├── index.html # Main HTML file
-├── index.js # All JavaScript functionality
-├── db.json # Database file for JSON server
-└── README.md # This documentation file
-
-#Usage Instructions
--Viewing Posts
-
--Posts appear in the left sidebar
-
--Click any title to view full content in the detail panel
-
--Adding Posts
-
--Complete the form at the bottom
-
--Required fields: Title, Author, Content
-
--Image URL is optional
-
--Submit with "Add Blog" button
-
--Editing Posts
-
--Click "Edit" on any post's detail view
-
--Modify fields as needed
-
--Save changes or cancel
-
--Deleting Posts
-
--Click "Delete" on post detail view
-
--Confirm deletion in popup dialog
-
-#Development Notes
-Pure JavaScript implementation
-Data persists via JSON Server
-UI updates dynamically without page reloads
-
-#License
-MIT License - see LICENSE file for details
-
-#Contact
-
-For support or contributions, please contact:
-Oliver Ekeno
-oliver.ekeno@student.moringaschool.com
-Project GitHub Issues
+- [Live Demo](YOUR_LIVE_LINK_HERE)
+- [Source Code](YOUR_GITHUB_LINK_HERE)
