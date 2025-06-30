@@ -5,7 +5,8 @@ const blogForm = document.getElementById('blog-form');
 const counter = document.querySelector('.counter');
 
 //Decaring API for accessibility
-const API = 'http://localhost:3000/Blogs';
+const API = 'https://blog-post-u9bd.onrender.com/Blogs';
+
 
 // Main function
 function main() {
