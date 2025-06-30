@@ -21,9 +21,8 @@ This is a simple web application that lets you create, view, edit, and delete bl
 - `index.html` – The main HTML page
 - `index.css` – Stylesheet for layout and design
 - `index.js` – JavaScript handling fetching, rendering, and user interactions
-- `db.json` – (Optional) JSON file containing initial blog data for the API
+- `db.json` – JSON file containing initial blog data for the API
 
 ## Useful Links
 
 - https://oliver-lomanat.github.io/Blog-post/
-- [Source Code](YOUR_GITHUB_LINK_HERE)
