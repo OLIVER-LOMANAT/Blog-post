@@ -4,7 +4,7 @@
   "description": "This is a simple web application that lets you create, view, edit, and delete blog posts. It is built using HTML, CSS, and JavaScript, making it easy to manage blog content in a clean interface.",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3000",
+    "start": "json-server --host 0.0.0.0 --watch db.json --port 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
