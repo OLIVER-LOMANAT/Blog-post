@@ -4,15 +4,22 @@
       "id": "72fa",
       "title": "The Waters",
       "author": "Dida Loma",
-      "image": "https://images.app.goo.gl/JoDNRWJ8TVoeaXqD9",
-      "content": "The benders of the esat"
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e", 
+      "content": "An exploration of the elemental power of water. From the oceans to the rivers, nature's flow inspires serenity and awe."
     },
     {
       "id": "9ecf",
       "title": "Tumbo",
       "author": "William Shakespear",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
-      "content": "The Bsets in the city.\n"
+      "content": "A satirical dive into urban life and the constant balancing act of ambition and reality in the modern city."
+    },
+    {
+      "id": "45ab",
+      "title": "Mountain Mornings",
+      "author": "Ava Nyong’o",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "content": "Waking up among giants. A reflective look at the calm and clarity that comes with early mornings in the mountains."
     }
   ]
 }
